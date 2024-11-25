@@ -1,1 +1,1 @@
-# Zotero
+# Obsidian
